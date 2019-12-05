@@ -21,9 +21,9 @@ div {
 
 .link-section {
     width: auto;
-    border: 3px white;
-    padding: 15px;
-    margin: 10px;
+    border: 5px white;
+    padding: 5px;
+    margin: 5px;
     justify-content: center;
     display: flex;
 }
