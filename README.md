@@ -1,2 +1,2 @@
-# binarypete.github.io
-Home is my domain
+# petesolo.github.io
+This is my domain
